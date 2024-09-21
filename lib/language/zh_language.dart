@@ -1,0 +1,33 @@
+class ZhLanguage {
+  Map<String, String> zhLanguage = {
+    'lang': '中文',
+    'language': '語言',
+    'change_language': '更改語言',
+    'policy': '隱私權政策',
+    'version': '版本',
+    'settings': '設定',
+    'agree': '我同意隱私權政策。',
+    'accept': '接受',
+    'search': '搜尋',
+    'general': '一般的',
+    'other': '其他',
+    'please_wait': '請稍等',
+    'no_data': '沒有找到數據',
+    'channels':'頻道',
+    'favourite':'最喜歡的',
+    'no_fav':'沒有最喜歡的頻道！',
+    'no_search_data':'沒有搜尋結果！',
+    'notice':'注意',
+    'add_success':'該頻道已成功添加到收藏夾列表',
+    'remove_success':'該頻道已成功從收藏清單中刪除',
+    'sorry':'對不起',
+    'no_previous':'沒有以前的頻道了',
+    'no_more_list':'這是最後一個頻道',
+    'please_enter_text':'請輸入文字進行搜尋！',
+    'cant_use':'抱歉，請使用位於螢幕左上角的軟體後退按鈕',
+    'exit':'出口？',
+    'are_u_sure':'您確定要退出嗎？',
+    'cancel':'取消',
+    'confirm':'確認'
+  };
+}

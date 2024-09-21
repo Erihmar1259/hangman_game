@@ -1,0 +1,33 @@
+class EnLanguage {
+  Map<String, String> enLanguage = {
+    'lang': 'English',
+    'language': 'Language',
+    'change_language': 'Change Language',
+    'policy': 'Privacy Policy',
+    'version': 'Version',
+    'settings': 'Settings',
+    'agree': 'I agreed to the privacy policy.',
+    'accept': 'Accept',
+    'search': 'Search',
+    'general': 'General',
+    'other': 'Other',
+    'please_wait': 'Please wait',
+    'no_data': 'No data found',
+    'channels':'Channels',
+    'favourite':'Favourite',
+    'no_fav':'There is no favourite channel !',
+    'no_search_data':'There is no search result !',
+    'notice':'Notice',
+    'add_success':'This channel has been successfully added to favorites lists',
+    'remove_success':'This channel has been successfully removed from favorites lists',
+    'sorry':'Sorry',
+    'no_previous':'No more previous channel',
+    'no_more_list':'This is the last channel',
+    'please_enter_text':'Please enter text to search !',
+    'cant_use':'Sorry, please use the software back button that located on the left corner of screen',
+    'exit':'Exit',
+    'are_u_sure':'Are you sure you want to exit?',
+    'cancel':'Cancel',
+    'confirm':'Confirm'
+  };
+}

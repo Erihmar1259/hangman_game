@@ -1,0 +1,33 @@
+class ViLanguage {
+  Map<String, String> viLanguage = {
+    'lang': 'Tiếng Việt',
+    'language': 'Ngôn ngữ',
+    'change_language': 'Thay đổi ngôn ngữ',
+    'policy': 'Chính sách bảo mật',
+    'version': 'Phiên bản',
+    'settings': 'Cài đặt',
+    'agree': 'Tôi đã đồng ý với chính sách bảo mật.',
+    'accept': 'Chấp nhận',
+    'search': 'Tìm kiếm',
+    'general': 'Tổng quan',
+    'other': 'Khác',
+    'please_wait': 'Vui lòng đợi',
+    'no_data':'Không tìm thấy dữ liệu',
+    'channels':'Kênh',
+    'favourite':'Yêu thích',
+    'no_fav':'Không có kênh yêu thích nào cả!',
+    'no_search_data':'Không có kết quả tìm kiếm!',
+    'notice':'Để ý',
+    'add_success':'Kênh này đã được thêm thành công vào danh sách yêu thích',
+    'remove_success':'Kênh này đã được xóa thành công khỏi danh sách yêu thích',
+    'sorry':'Lấy làm tiếc',
+    'no_previous':'Không còn kênh trước đó nữa',
+    'no_more_list':'Đây là kênh cuối cùng',
+    'please_enter_text':'Vui lòng nhập văn bản để tìm kiếm!',
+    'cant_use':'Xin lỗi, vui lòng sử dụng nút quay lại phần mềm nằm ở góc trên bên trái của màn hình',
+    'exit':'Thoát?',
+    'are_u_sure':'Bạn có chắc chắn muốn thoát không?',
+    'cancel':'Hủy bỏ',
+    'confirm':'Xác nhận'
+  };
+}

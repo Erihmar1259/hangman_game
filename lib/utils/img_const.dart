@@ -1,0 +1,13 @@
+const String favImg="assets/images/favourite.webp";
+const String favFillImg="assets/images/favourite_fill.webp";
+const String addImg="assets/images/add.webp";
+const String backwardImg="assets/images/backward.webp";
+const String forwardImg="assets/images/forward_icon.webp";
+const String forwardArrowImg="assets/images/forward.webp";
+const String playImg="assets/images/play.webp";
+const String pauseImg="assets/images/pause.webp";
+const String fmImg="assets/images/fm.webp";
+const String smallWaveImg="assets/images/small_wave.webp";
+const String waveImg="assets/images/wave.webp";
+const String waveBgImg="assets/images/wave_bg.webp";
+const String searchImg="assets/images/search.webp";
