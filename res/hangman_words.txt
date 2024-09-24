@@ -25,3 +25,9 @@ sepaktakraw
 futsal
 polo
 pingpong
+trampolining
+broomball
+lacrosse
+billiards
+chess
+marathon

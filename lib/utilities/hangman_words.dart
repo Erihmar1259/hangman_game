@@ -8,8 +8,37 @@ class HangmanWords {
   List<String> _words = [];
 
   Future readWords() async {
-    String fileText = await rootBundle.loadString('res/hangman_words.txt');
-    _words = fileText.split('\n');
+    // String fileText = await rootBundle.loadString('res/hangman_words.txt');
+    // _words = fileText.split('\n');
+    _words=[
+      "basketball",
+      "volleyball",
+      "soccer",
+      "hockey",
+      "tennis",
+      "cricket",
+      "football",
+      "golf",
+      "taekwondo",
+      "handball",
+      "rowing",
+      "athletics",
+      "badminton",
+      "biathlon",
+      "archery",
+      "fencing",
+      "boxing",
+      "surfing",
+      "swimming",
+      "wrestling",
+      "weightlifting",
+      "curling",
+      "baseball",
+      "sepaktakraw",
+      "futsal",
+      "polo",
+      "pingpong",
+    ];
   }
 
   void resetWords() {

@@ -28,6 +28,16 @@ class ViLanguage {
     'exit':'Thoát?',
     'are_u_sure':'Bạn có chắc chắn muốn thoát không?',
     'cancel':'Hủy bỏ',
-    'confirm':'Xác nhận'
+    'confirm':'Xác nhận',
+    'start':'Bắt đầu',
+    'high_score':'Điểm cao',
+    'your_best_score': 'Điểm cao nhất của bạn',
+    'your_score': 'Điểm của bạn',
+    'game_over': 'Trò chơi kết thúc',
+    'home': 'Trang chủ',
+    'next': 'Kế tiếp',
+    'congratulation': 'Chúc mừng',
+    'no_lives_left':'Không còn mạng sống nào nữa',
+    'next_life_in':'Cuộc sống tiếp theo trong'
   };
 }

@@ -28,6 +28,16 @@ class HiLanguage {
     'exit':'बाहर निकलना?',
     'are_u_sure':'क्या आप निश्चित हैं आपकी बाहर निकलने की इच्छा है?',
     'cancel':'रद्द करना',
-    'confirm':'पुष्टि करना'
+    'confirm':'पुष्टि करना',
+    'start':'शुरू',
+    'high_score':'उच्च अंक',
+    'your_best_score': 'आपका सर्वश्रेष्ठ स्कोर',
+    'your_score': 'तुम्हारे अंक',
+    'game_over': 'खेल खत्म',
+    'home': 'घर',
+    'next': 'अगला',
+    'congratulation': 'बधाई हो',
+    'no_lives_left':'कोई जीवन नहीं बचा',
+    'next_life_in':'अगला जीवन'
   };
 }

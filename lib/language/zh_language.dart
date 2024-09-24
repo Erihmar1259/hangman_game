@@ -28,6 +28,16 @@ class ZhLanguage {
     'exit':'出口？',
     'are_u_sure':'您確定要退出嗎？',
     'cancel':'取消',
-    'confirm':'確認'
+    'confirm':'確認',
+    'start':'開始',
+    'high_score':'高分',
+    'your_best_score': '你的最佳成績',
+    'your_score': '你的分數',
+    'game_over': '遊戲結束',
+    'home': '家',
+    'next': '下一個',
+    'congratulation': '恭喜',
+    'no_lives_left':'沒有生命了',
+    'next_life_in':'下輩子在'
   };
 }

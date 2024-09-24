@@ -47,6 +47,7 @@ dependencies:
   flutter_screenutil:
   loading_indicator:
   loading_animation_widget:
+  webview_flutter:
 
 dev_dependencies:
   flutter_test:
